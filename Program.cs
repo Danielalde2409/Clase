@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System.IO.Pipes;
+
+class Program {
+    public static void Main{string[ Args]{
+        Console.WritenLine("Hola Mundo 2");
+    }
+    
+    }
+}
